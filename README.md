@@ -8,9 +8,11 @@ but I'm looking into it for fun/practice anyway.
 
 Beehive puzzles are word games that take 7 letters, like so:
 
-V | A | C
-  | L |
+```
+V | A | C  
+  | L |  
 R | I | H
+```
 
 The challenge is to find words with 5 or more letters that can be
 constructed from these seven letters.  Note that the middle letter (in
